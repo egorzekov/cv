@@ -6,8 +6,8 @@ Hi there, my name is Egor Zekov. I'm a 27th years old Frontend Developer from Mi
 You could also [view this CV](https://github.com/egorzekov/cv/blob/master/README.md) with less GitHub UI (e.g. for print purposes).
 
 Contacts and links:
-- [linkedin](https://www.linkedin.com/in/egor-zekov-aab097b1/)
-- [instagram](https://www.instagram.com/egorzekov/)
+- <a href="https://www.linkedin.com/in/egor-zekov-aab097b1/" target="_blank">linkedin</a>
+- <a href="https://www.instagram.com/egorzekov/" target="_blank">instagram</a>
 - <a href="mailto:egorzekov@gmail.com">egorzekov@gmail.com</a>
 
 ## Current Responsibilities and Technologies

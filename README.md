@@ -2,9 +2,22 @@
 
 > Hello words
 
-[Printable version](https://gitprint.com/egorzekov/cv/blob/master/README.md)
+[Print version](https://github.com/egorzekov/cv/blob/master/README.md) with less GitHub UI.
 
-## Current stack
+## Responsibilities and Technologies
+
+My current responsibilities:
+
+- features development for our back/front office web applications
+- collaborate with other teams to find best solution for a business problem
+- design and create resilient and reusable common components
+- implement new target/marketing emails
+- maintain existing code base
+- improve automation tools and deployment settings
+
+Using cutting-edge technologies is the best motivation for a software developer. I'm really excited that my company uses such stack. It will be really awesome if you could offer the same. Here you could find the list of technologies either I'm currently working with or I had a chance to work with in the past:
+
+### Current stack
 
 <div style="display: flex;">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" height="50" />
@@ -42,9 +55,10 @@
 <img src="https://cdn.svgporn.com/logos/postcss.svg" alt="postcss" height="50" />
 </a>
 <img src="https://assets.getpop.org/wp-content/plugins/getpop-processors/img/documentation/logos/handlebars.png" alt="handlebars" height="50" />
+<img src="https://cdn.svgporn.com/logos/markdown.svg" alt="markdown" height="50" />
 </div>
 
-## Previous stack
+### Previous stack
 
 <div style="display: flex;">
 <img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" height="50" />
@@ -56,7 +70,7 @@
 <img src="https://cdn.svgporn.com/logos/express.svg" alt="express" height="50" />
 </div>
 
-## Toolset
+### Toolset
 
 <div style="display: flex;">
 <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" height="50" />
@@ -91,6 +105,12 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank">
 <img src="https://cdn.svgporn.com/logos/jira.svg" alt="jira" height="50" />
 </a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual studio code" height="50" />
+</a>
+<a href="https://yarnpkg.com/lang/en/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn" height="50" />
+</a>
 <img src="https://cdn.svgporn.com/logos/macosx.svg" alt="macosx" height="50" />
 <a href="https://www.browserstack.com/" target="_blank">
 <img src="https://cdn.svgporn.com/logos/browserstack.svg" alt="browserstack" height="50" />
@@ -103,7 +123,7 @@
 </a>
 </div>
 
-## 3rd party systems I had a chance to work with
+### 3rd party systems
 
 <div style="display: flex;">
 <a href="https://zeplin.io/" target="_blank">
@@ -129,5 +149,32 @@
 </a>
 <a href="https://stripe.com/" target="_blank">
 <img src="https://cdn.svgporn.com/logos/stripe.svg" alt="stripe" height="50" />
+</a>
+</div>
+
+### Technologies I would like to work with or going to learn soon
+
+<div style="display: flex;">
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" height="50" />
+</a>
+<a href="https://jestjs.io/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" height="50" />
+</a>
+<a href="https://graphql.org/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" height="50" />
+</a>
+<a href="https://www.digitalocean.com/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="digital ocean" height="50" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" height="50" />
+</a>
+<img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="socket io" height="50" />
+<a href="https://about.gitlab.com/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab" height="50" />
+</a>
+<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" height="50" />
+<a href="https://socket.io/" target="_blank">
 </a>
 </div>

@@ -1,10 +1,16 @@
 # Egor Zekov Frontend Developer CV
 
-> Hello words
+## General information
+Hi there, my name is Egor Zekov. I'm a 27th years old Frontend Developer from Minsk, currently working in [Juno](https://gojuno.com/). My current development experience is 3 years, while total IT experience is 6 years. I'm looking forward for new collaborations, contacts and offers.
 
-[Print version](https://github.com/egorzekov/cv/blob/master/README.md) with less GitHub UI.
+You could also [view this CV](https://github.com/egorzekov/cv/blob/master/README.md) with less GitHub UI (e.g. for print purposes).
 
-## Responsibilities and Technologies
+Contacts and links:
+- [linkedin](https://www.linkedin.com/in/egor-zekov-aab097b1/)
+- [instagram](https://www.instagram.com/egorzekov/)
+- <a href="mailto:egorzekov@gmail.com">egorzekov@gmail.com</a>
+
+## Current Responsibilities and Technologies
 
 My current responsibilities:
 
@@ -161,20 +167,43 @@ Using cutting-edge technologies is the best motivation for a software developer.
 <a href="https://jestjs.io/" target="_blank">
 <img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" height="50" />
 </a>
-<a href="https://graphql.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" height="50" />
-</a>
-<a href="https://www.digitalocean.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="digital ocean" height="50" />
+<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" height="50" />
+<a href="https://socket.io/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="socket io" height="50" />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
 <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="socket io" height="50" />
+<a href="https://www.digitalocean.com/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="digital ocean" height="50" />
+</a>
 <a href="https://about.gitlab.com/" target="_blank">
 <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" height="50" />
-<a href="https://socket.io/" target="_blank">
+<a href="https://graphql.org/" target="_blank">
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" height="50" />
 </a>
 </div>
+
+## More info
+
+Education:
+ - **IT management** (bachelor) in Academy of Public Administration under the aegis of the President of the Republic of Belarus (2010 - 2016).
+
+The latest completed challenges:
+ - Implementation of new form library based on [formik](https://jaredpalmer.com/formik/) with a lot of "custom needs" functionality. This library is used almost for all our back-office applications now.
+ - Deployment of web application using [Docker](https://www.docker.com/), [nGinx](https://nginx.org/en/) and [Heroku](https://www.heroku.com/home) from scratch.
+ - Participation in the official translation of [https://reactjs.org/](https://reactjs.org/) to RU language - [Hooks FAQ and Context docs](https://github.com/reactjs/ru.reactjs.org/issues?q=author%3Aegorzekov).
+ - Among with working as QA engineer in the past I used to be a lecturer of manual QA courses. Many of my students work in the best Minsk IT companies now.
+ 
+What motivates me:
+ - People (awesome people!) which I can collaborate with on everyday basis.
+ - Cutting-edge technologies.
+ - Healthy and growing business.
+ - Great feeling "I'm coming home" when I enter the office.
+ 
+Hobbies:
+ - airsoft
+ - computer gaming
+ - movies
+ - tattoos

@@ -1,9 +1,7 @@
 # Egor Zekov Frontend Developer CV
 
 ## General information
-Hi there, my name is Egor Zekov. 
-
-I'm a 27 years old Frontend Developer from Minsk, currently working in [Juno](https://gojuno.com/). My current development experience is 3 years, while total IT experience is 6 years. Feel free to visit <a href="https://www.linkedin.com/in/egor-zekov-aab097b1/" target="_blank">my linkedin profile</a> to see the detailed experience and timeline.
+Hi there, my name is Egor Zekov. I'm a 27 years old Frontend Developer from Minsk, currently working in [Juno](https://gojuno.com/). My current development experience is 3 years, while total IT experience is 6 years. Feel free to visit <a href="https://www.linkedin.com/in/egor-zekov-aab097b1/" target="_blank">my linkedin profile</a> to see the detailed experience and timeline.
 
 I'm looking forward for new collaborations, contacts and offers.
 
@@ -14,7 +12,7 @@ Contacts and links:
 - <a href="https://www.instagram.com/egorzekov/" target="_blank">instagram</a>
 - <a href="mailto:egorzekov@gmail.com">egorzekov@gmail.com</a>
 
-## Current Responsibilities and Technologies
+## Current responsibilities and technologies
 
 My current responsibilities:
 
@@ -30,106 +28,104 @@ Using cutting-edge technologies is the best motivation for a software developer.
 ### Current stack
 
 <div style="display: flex;">
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" height="50" />
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" height="50" />
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" height="50" />
-<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" height="50" />
-<img src="https://cdn.svgporn.com/logos/webpack.svg" alt="webpack" height="50" />
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" title="javascript" height="50" />
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" title="nodejs" height="50" />
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" title="react" height="50" />
+<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" title="redux" height="50" />
+<img src="https://cdn.svgporn.com/logos/webpack.svg" alt="webpack" title="webpack" height="50" />
 
-<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" height="50" />
-<img src="https://cdn.svgporn.com/logos/docker.svg" alt="docker" height="50" />
-<img src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png" alt="nginx" height="50" />
+<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" title="sass" height="50" />
+<img src="https://cdn.svgporn.com/logos/docker.svg" alt="docker" title="docker" height="50" />
+<img src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png" alt="nginx" title="nginx" height="50" />
 <a href="https://www.gatsbyjs.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/gatsby.svg" alt="gatsby" height="50" />
+<img src="https://cdn.svgporn.com/logos/gatsby.svg" alt="gatsby" title="gatsby" height="50" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" height="50" />
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" title="postgresql" height="50" />
 </a>
-
-<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" height="50" />
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" height="50" />
+<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" title="css" height="50" />
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" title="html" height="50" />
 <a href="https://www.mapbox.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/mapbox.svg" alt="mapbox" height="50" />
+<img src="https://cdn.svgporn.com/logos/mapbox.svg" alt="mapbox" title="mapbox" height="50" />
 </a>
 <a href="https://lodash.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/lodash.svg" alt="lodash" height="50" />
+<img src="https://cdn.svgporn.com/logos/lodash.svg" alt="lodash" title="lodash" height="50" />
 </a>
 <a href="https://fontawesome.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/font-awesome.svg" alt="font-awesome" height="50" />
+<img src="https://cdn.svgporn.com/logos/font-awesome.svg" alt="font-awesome" title="font-awesome" height="50" />
 </a>
-
 <a href="https://momentjs.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/momentjs.svg" alt="momentjs" height="50" />
+<img src="https://cdn.svgporn.com/logos/momentjs.svg" alt="momentjs" title="momentjs" height="50" />
 </a>
 <a href="https://postcss.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/postcss.svg" alt="postcss" height="50" />
+<img src="https://cdn.svgporn.com/logos/postcss.svg" alt="postcss" title="postcss" height="50" />
 </a>
-<img src="https://assets.getpop.org/wp-content/plugins/getpop-processors/img/documentation/logos/handlebars.png" alt="handlebars" height="50" />
-<img src="https://cdn.svgporn.com/logos/markdown.svg" alt="markdown" height="50" />
+<img src="https://assets.getpop.org/wp-content/plugins/getpop-processors/img/documentation/logos/handlebars.png" alt="handlebars" title="handlebars" height="50" />
+<img src="https://cdn.svgporn.com/logos/markdown.svg" alt="markdown" title="markdown" height="50" />
 </div>
 
 ### Previous stack
 
 <div style="display: flex;">
-<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" height="50" />
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" height="50" />
-<img src="https://cdn.svgporn.com/logos/flask.svg" alt="flask" height="50" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" height="50" />
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" height="50" />
-<img src="https://cdn.svgporn.com/logos/express.svg" alt="express" height="50" />
-<img src="https://cdn.svgporn.com/logos/jquery.svg" alt="jquery" height="50" />
+<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" title="vue" height="50" />
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" title="python" height="50" />
+<img src="https://cdn.svgporn.com/logos/flask.svg" alt="flask" title="flask" height="50" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" title="mysql" height="50" />
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" title="bootstrap" height="50" />
+<img src="https://cdn.svgporn.com/logos/express.svg" alt="express" title="express" height="50" />
+<img src="https://cdn.svgporn.com/logos/jquery.svg" alt="jquery" title="jquery" height="50" />
 </div>
 
 ### Toolset
 
 <div style="display: flex;">
-<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" height="50" />
-<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github" height="50" />
-<img src="https://cdn.svgporn.com/logos/terminal.svg" alt="bash" height="50" />
-<img src="https://cdn.svgporn.com/logos/npm.svg" alt="npm" height="50" />
+<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" title="git" height="50" />
+<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github" title="github" height="50" />
+<img src="https://cdn.svgporn.com/logos/terminal.svg" alt="bash" title="bash" height="50" />
+<img src="https://cdn.svgporn.com/logos/npm.svg" alt="npm" title="npm" height="50" />
 <a href="https://prettier.io/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/prettier.svg" alt="prettier" height="50" />
+<img src="https://cdn.svgporn.com/logos/prettier.svg" alt="prettier" title="prettier" height="50" />
 </a>
 <a href="https://eslint.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/eslint.svg" alt="eslint" height="50" />
+<img src="https://cdn.svgporn.com/logos/eslint.svg" alt="eslint" title="eslint" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/babel.svg" alt="babel" height="50" />
+<img src="https://cdn.svgporn.com/logos/babel.svg" alt="babel" title="babel" height="50" />
 <a href="https://storybook.js.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="storybook" height="50" />
+<img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="storybook" title="storybook" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="slack" height="50" />
-<img src="https://cdn.svgporn.com/logos/webstorm.svg" alt="webstorm" height="50" />
+<img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="slack" title="slack" height="50" />
+<img src="https://cdn.svgporn.com/logos/webstorm.svg" alt="webstorm" title="webstorm" height="50" />
 <a href="https://marketingplatform.google.com/about/analytics/?hl=en_GB" target="_blank">
-<img src="https://www.searchpng.com/wp-content/uploads/2019/02/Google-Analytics-Logo-PNG-715x715.png" alt="google analytics" height="50" />
+<img src="https://www.searchpng.com/wp-content/uploads/2019/02/Google-Analytics-Logo-PNG-715x715.png" alt="google analytics" title="google analytics" height="50" />
 </a>
 <a href="https://sentry.io/welcome/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/sentry.svg" alt="sentry" height="50" />
+<img src="https://cdn.svgporn.com/logos/sentry.svg" alt="sentry" title="sentry" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/heroku.svg" alt="heroku" height="50" />
+<img src="https://cdn.svgporn.com/logos/heroku.svg" alt="heroku" title="heroku" height="50" />
 <a href="https://trello.com" target="_blank">
-<img src="https://cdn.svgporn.com/logos/trello.svg" alt="trello" height="50" />
+<img src="https://cdn.svgporn.com/logos/trello.svg" alt="trello" title="trello" height="50" />
 </a>
 <a href="https://bitbucket.org/product" target="_blank">
-<img src="https://cdn.svgporn.com/logos/bitbucket.svg" alt="bitbucket" height="50" />
+<img src="https://cdn.svgporn.com/logos/bitbucket.svg" alt="bitbucket" title="bitbucket" height="50" />
 </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.svgporn.com/logos/jira.svg" alt="jira" height="50" />
+<img src="https://cdn.svgporn.com/logos/jira.svg" alt="jira" title="jira" height="50" />
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual studio code" height="50" />
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual studio code" title="visual studio code" height="50" />
 </a>
 <a href="https://yarnpkg.com/lang/en/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn" height="50" />
+<img src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn" title="yarn" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/macosx.svg" alt="macosx" height="50" />
+<img src="https://cdn.svgporn.com/logos/macosx.svg" alt="macosx" title="macosx" height="50" />
 <a href="https://www.browserstack.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/browserstack.svg" alt="browserstack" height="50" />
+<img src="https://cdn.svgporn.com/logos/browserstack.svg" alt="browserstack" title="browserstack" height="50" />
 </a>
 <a href="https://surge.sh/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/surge.svg" alt="surge" height="50" />
+<img src="https://cdn.svgporn.com/logos/surge.svg" alt="surge" title="surge" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/" target="_blank">
-<img src="https://davidwalsh.name/demo/charlesproxyicon.svg" alt="charles proxy" height="50" />
+<img src="https://davidwalsh.name/demo/charlesproxyicon.svg" alt="charles proxy" title="charles proxy" height="50" />
 </a>
 </div>
 
@@ -137,28 +133,28 @@ Using cutting-edge technologies is the best motivation for a software developer.
 
 <div style="display: flex;">
 <a href="https://zeplin.io/" target="_blank">
-<img src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-15/16747560928_3330dc995a8453913308_512.png" alt="zeplin" height="50" />
+<img src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-15/16747560928_3330dc995a8453913308_512.png" alt="zeplin" title="zeplin" height="50" />
 </a>
 <a href="https://mailchimp.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/mailchimp-freddie.svg" alt="mailchimp" height="50" />
+<img src="https://cdn.svgporn.com/logos/mailchimp-freddie.svg" alt="mailchimp" title="mailchimp" height="50" />
 </a>
 <a href="https://mandrill.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/mandrill.svg" alt="mandrill" height="50" />
+<img src="https://cdn.svgporn.com/logos/mandrill.svg" alt="mandrill" title="mandrill" height="50" />
 </a>
 <a href="https://mixpanel.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/mixpanel.svg" alt="mixpanel" height="50" />
+<img src="https://cdn.svgporn.com/logos/mixpanel.svg" alt="mixpanel" title="mixpanel" height="50" />
 </a>
 <a href="https://www.zendesk.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/zendesk.svg" alt="zendesk" height="50" />
+<img src="https://cdn.svgporn.com/logos/zendesk.svg" alt="zendesk" title="zendesk" height="50" />
 </a>
 <a href="https://www.elastic.co/products/kibana" target="_blank">
-<img src="https://cdn.svgporn.com/logos/kibana.svg" alt="kibana" height="50" />
+<img src="https://cdn.svgporn.com/logos/kibana.svg" alt="kibana" title="kibana" height="50" />
 </a>
 <a href="https://grafana.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" height="50" />
+<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" title="grafana" height="50" />
 </a>
 <a href="https://stripe.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/stripe.svg" alt="stripe" height="50" />
+<img src="https://cdn.svgporn.com/logos/stripe.svg" alt="stripe" title="stripe" height="50" />
 </a>
 </div>
 
@@ -166,33 +162,33 @@ Using cutting-edge technologies is the best motivation for a software developer.
 
 <div style="display: flex;">
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" height="50" />
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" title="typescript" height="50" />
 </a>
 <a href="https://jestjs.io/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" height="50" />
+<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" title="jest" height="50" />
 </a>
-<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" height="50" />
+<img src="https://cdn.svgporn.com/logos/nextjs.svg" alt="nextjs" title="nextjs" height="50" />
 <a href="https://socket.io/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="socket io" height="50" />
+<img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="socket io" title="socket io" height="50" />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" height="50" />
+<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" title="firebase" height="50" />
 </a>
 <a href="https://www.digitalocean.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="digital ocean" height="50" />
+<img src="https://cdn.svgporn.com/logos/digital-ocean.svg" alt="digital ocean" title="digital ocean" height="50" />
 </a>
 <a href="https://about.gitlab.com/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab" height="50" />
+<img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab" title="gitlab" height="50" />
 </a>
 <a href="https://graphql.org/" target="_blank">
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" height="50" />
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" title="graphql" height="50" />
 </a>
 </div>
 
-## More info
+## In addition
 
 Education:
- - **IT management** (bachelor) in Academy of Public Administration under the aegis of the President of the Republic of Belarus (2010 - 2016).
+ - **IT management** (bachelor) in [Academy of Public Administration under the aegis of the President of the Republic of Belarus](https://www.pac.by/en/) (2010 - 2016).
 
 The latest completed challenges:
  - Implementation of new form library based on [formik](https://jaredpalmer.com/formik/) with a lot of "custom needs" functionality. This library is used almost for all our back-office applications now.
@@ -207,7 +203,7 @@ What motivates me:
  - Great feeling "I'm coming home" when I enter the office.
 
 Some thoughts that can describe me better:
- - Providing business value is a top priority.
+ - Producing business value is a top priority.
  - Always think about scalability and logic reuse.
  - Listen first, then think and say after.
  - Deny only in case you have something to offer.

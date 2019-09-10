@@ -1,9 +1,9 @@
 # Egor Zekov Frontend Developer CV
 
 ## General information
-Hi there, my name is Egor Zekov. I'm a 27 years old Frontend Developer from Minsk, currently working in [Juno](https://gojuno.com/). My current development experience is 3 years, while total IT experience is 6 years. Feel free to visit <a href="https://www.linkedin.com/in/egor-zekov-aab097b1/" target="_blank">my linkedin profile</a> to see the detailed experience and timeline.
+Hi there, my name is Egor Zekov. I'm a 27 years old Frontend Developer from Minsk, currently working in [Juno](https://gojuno.com/). I've been working as a developer for 3 years, while total IT experience is 6 years. Feel free to visit <a href="https://www.linkedin.com/in/egor-zekov-aab097b1/" target="_blank">my linkedin profile</a> to see more details and the timeline.
 
-I'm looking forward for new collaborations, contacts and offers.
+I'm looking forward to new collaborations, offers and contacts.
 
 You could also [view this CV](https://github.com/egorzekov/cv/blob/master/README.md) with less GitHub UI (e.g. for print purposes).
 
@@ -16,8 +16,8 @@ Contacts and links:
 
 My current responsibilities:
 
-- features development for our back/front office web applications
-- collaborate with other teams to find best solution for a business problem
+- develop features for our back/front office web applications
+- collaborate with other teams to find best solution to a business problem
 - design and create resilient and reusable common components
 - implement new target/marketing emails
 - maintain existing code base
@@ -194,7 +194,7 @@ The latest completed challenges:
  - Implementation of new form library based on [formik](https://jaredpalmer.com/formik/) with a lot of "custom needs" functionality. This library is used almost for all our back-office applications now.
  - Deployment of web application using [Docker](https://www.docker.com/), [nGinx](https://nginx.org/en/) and [Heroku](https://www.heroku.com/home) from scratch.
  - Participation in the official translation of [https://reactjs.org/](https://reactjs.org/) to RU language - [Hooks FAQ and Context docs](https://github.com/reactjs/ru.reactjs.org/issues?q=author%3Aegorzekov).
- - Among with working as QA engineer in the past I used to be a lecturer of manual QA courses. My students are working in the best Minsk IT companies now.
+ - While working as QA engineer in the past I used to be a lecturer of manual QA courses. My students are working in the best Minsk IT companies now.
  
 What motivates me:
  - People (awesome people!) who I can collaborate with on everyday basis.
@@ -205,9 +205,9 @@ What motivates me:
 Some thoughts that can describe me better:
  - Producing business value is a top priority.
  - Always think about scalability and logic reuse.
- - Listen first, then think and say after.
+ - Listen first, then think and say only after that.
  - Deny only in case you have something to offer.
- - Even if no one would like to say a truth, it's the best time to do it for you.
+ - Even if no one would like to tell the truth, it's the best time for you to do it.
  - Always try to solve a problem by yourself. At least initially.
  - Don't be afraid to ask questions.
 
@@ -215,4 +215,5 @@ Hobbies:
  - airsoft
  - computer gaming
  - movies
+ - martial arts
  - tattoos
